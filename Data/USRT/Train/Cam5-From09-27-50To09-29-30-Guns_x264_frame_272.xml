@@ -1,0 +1,27 @@
+<annotation verified="yes">
+                                    <folder>Annotation</folder>
+                                    <filename>Cam5-From09-27-50To09-29-30-Guns_x264_frame_272</filename>
+                                    <path>C:\Users\Rodrigo\Desktop\Reetiquetado con VoTT v1\Videos Rodri\JPEGImages\Cam5-From09-27-50To09-29-30-Guns_x264_frame_272.jpg</path>
+                                    <source>
+                                        <database>Unknown</database>
+                                    </source>
+                                    <size>
+                                        <width>1920</width>
+                                        <height>1080</height>
+                                        <depth>3</depth>
+                                    </size>
+                                    <segmented>0</segmented>
+                                    <object>
+                                            <name>Knife</name>
+                                            <pose>Unspecified</pose>
+                                            <truncated>0</truncated>
+                                            <difficult>0</difficult>
+                                            <bndbox>
+                                                <xmin>554.0495867768595</xmin>
+                                                <ymin>437.55201958384333</ymin>
+                                                <xmax>650.5785123966942</xmax>
+                                                <ymax>483.8188494492044</ymax>
+                                            </bndbox>
+                                    </object>
+                                    
+                                    </annotation>

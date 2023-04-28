@@ -1,0 +1,896 @@
+{
+    "type": "instances",
+    "categories": [
+        {
+            "supercategory": "none",
+            "id": 2,
+            "name": "knife"
+        }
+    ],
+    "images": [
+        {
+            "file_name": "Cam7-From09-05-50To10-09-24_Segment_11_x264_frame_27",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam7-From09-05-50To10-09-24_Segment_11_x264_frame_27"
+        },
+        {
+            "file_name": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_45",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_45"
+        },
+        {
+            "file_name": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_86",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_86"
+        },
+        {
+            "file_name": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_69",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_69"
+        },
+        {
+            "file_name": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_1_x264_frame_46",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_1_x264_frame_46"
+        },
+        {
+            "file_name": "Cam5-From09-32-26To09-33-10-Guns_x264_frame_40",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-32-26To09-33-10-Guns_x264_frame_40"
+        },
+        {
+            "file_name": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_57",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_57"
+        },
+        {
+            "file_name": "Cam1-From09-23-00To10-03-25_Segment_0_x264_frame_12",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam1-From09-23-00To10-03-25_Segment_0_x264_frame_12"
+        },
+        {
+            "file_name": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_103",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_103"
+        },
+        {
+            "file_name": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_18",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_18"
+        },
+        {
+            "file_name": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_30",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_30"
+        },
+        {
+            "file_name": "Cam5-From09-32-26To09-33-10-Guns_x264_frame_32",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-32-26To09-33-10-Guns_x264_frame_32"
+        },
+        {
+            "file_name": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_8",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_8"
+        },
+        {
+            "file_name": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_9",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_9"
+        },
+        {
+            "file_name": "Cam5-From09-27-50To09-29-30-Guns_x264_frame_255",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-27-50To09-29-30-Guns_x264_frame_255"
+        },
+        {
+            "file_name": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_19",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_19"
+        },
+        {
+            "file_name": "Cam1-From09-23-00To10-03-25_Segment_0_x264_frame_13",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam1-From09-23-00To10-03-25_Segment_0_x264_frame_13"
+        },
+        {
+            "file_name": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_26",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_26"
+        },
+        {
+            "file_name": "Cam5-From09-32-26To09-33-10-Guns_x264_frame_30",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-32-26To09-33-10-Guns_x264_frame_30"
+        },
+        {
+            "file_name": "Cam5-From09-32-26To09-33-10-Guns_x264_frame_18",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-32-26To09-33-10-Guns_x264_frame_18"
+        },
+        {
+            "file_name": "Cam5-From09-30-04To09-30-42-Guns_x264_frame_26",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-30-04To09-30-42-Guns_x264_frame_26"
+        },
+        {
+            "file_name": "Cam1-From09-23-00To10-03-25_Segment_0_x264_frame_15",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam1-From09-23-00To10-03-25_Segment_0_x264_frame_15"
+        },
+        {
+            "file_name": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_21",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_21"
+        },
+        {
+            "file_name": "Cam5-From09-27-50To09-29-30-Guns_x264_frame_250",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-27-50To09-29-30-Guns_x264_frame_250"
+        },
+        {
+            "file_name": "Cam5-From09-27-50To09-29-30-Guns_x264_frame_275",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-27-50To09-29-30-Guns_x264_frame_275"
+        },
+        {
+            "file_name": "Cam1-From09-23-00To10-03-25_Segment_0_x264_frame_8",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam1-From09-23-00To10-03-25_Segment_0_x264_frame_8"
+        },
+        {
+            "file_name": "Cam5-From09-27-50To09-29-30-Guns_x264_frame_248",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-27-50To09-29-30-Guns_x264_frame_248"
+        },
+        {
+            "file_name": "Cam5-From09-32-26To09-33-10-Guns_x264_frame_39",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-32-26To09-33-10-Guns_x264_frame_39"
+        },
+        {
+            "file_name": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_6",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_6"
+        },
+        {
+            "file_name": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_16",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_16"
+        },
+        {
+            "file_name": "Cam1-From09-23-00To10-03-25_Segment_1_x264_frame_30",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam1-From09-23-00To10-03-25_Segment_1_x264_frame_30"
+        },
+        {
+            "file_name": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_14",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_14"
+        },
+        {
+            "file_name": "Cam5-From09-27-50To09-29-30-Guns_x264_frame_258",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-27-50To09-29-30-Guns_x264_frame_258"
+        },
+        {
+            "file_name": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_4",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_4"
+        },
+        {
+            "file_name": "Cam5-From09-27-50To09-29-30-Guns_x264_frame_259",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-27-50To09-29-30-Guns_x264_frame_259"
+        },
+        {
+            "file_name": "Cam7-From09-05-50To10-09-24_Segment_8_x264_frame_451",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam7-From09-05-50To10-09-24_Segment_8_x264_frame_451"
+        },
+        {
+            "file_name": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_66",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_66"
+        },
+        {
+            "file_name": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_67",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_67"
+        },
+        {
+            "file_name": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_59",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_59"
+        },
+        {
+            "file_name": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_74",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_74"
+        },
+        {
+            "file_name": "Cam7-From09-05-50To10-09-24_Segment_11_x264_frame_28",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam7-From09-05-50To10-09-24_Segment_11_x264_frame_28"
+        },
+        {
+            "file_name": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_77",
+            "height": 1080,
+            "width": 1920,
+            "id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_77"
+        }
+    ],
+    "annotations": [
+        {
+            "area": 1154.4895922690434,
+            "iscrowd": 0,
+            "bbox": [
+                862.7196652719665,
+                332.0502092050209,
+                30.79497907949792,
+                37.48953974895397
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam7-From09-05-50To10-09-24_Segment_11_x264_frame_27",
+            "id": 1
+        },
+        {
+            "area": 2408.7156195312414,
+            "iscrowd": 0,
+            "bbox": [
+                670.4132231404959,
+                367.4908200734394,
+                34.38016528925618,
+                70.06119951040392
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_45",
+            "id": 2
+        },
+        {
+            "area": 4219.622282691157,
+            "iscrowd": 0,
+            "bbox": [
+                13.223140495867769,
+                610.7221542227662,
+                44.95867768595042,
+                93.85556915544669
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_86",
+            "id": 3
+        },
+        {
+            "area": 2894.653894008516,
+            "iscrowd": 0,
+            "bbox": [
+                415.20661157024796,
+                366.1689106487148,
+                30.41322314049586,
+                95.17747858017134
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_69",
+            "id": 4
+        },
+        {
+            "area": 2763.5554386639265,
+            "iscrowd": 0,
+            "bbox": [
+                740.4958677685951,
+                226.04651162790697,
+                40.99173553719004,
+                67.41738066095473
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_1_x264_frame_46",
+            "id": 5
+        },
+        {
+            "area": 2211.1939468120568,
+            "iscrowd": 0,
+            "bbox": [
+                536.8595041322315,
+                432.2643818849449,
+                30.413223140495802,
+                72.70501835985311
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-32-26To09-33-10-Guns_x264_frame_40",
+            "id": 6
+        },
+        {
+            "area": 1761.9632398312692,
+            "iscrowd": 0,
+            "bbox": [
+                370.24793388429754,
+                335.76499388004896,
+                47.60330578512395,
+                37.013463892288826
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_57",
+            "id": 7
+        },
+        {
+            "area": 1713.0198165026268,
+            "iscrowd": 0,
+            "bbox": [
+                883.305785123967,
+                389.96328029375763,
+                46.280991735537214,
+                37.01346389228888
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam1-From09-23-00To10-03-25_Segment_0_x264_frame_12",
+            "id": 8
+        },
+        {
+            "area": 2690.1403036709603,
+            "iscrowd": 0,
+            "bbox": [
+                95.20661157024793,
+                518.188494492044,
+                35.70247933884298,
+                75.34883720930236
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_103",
+            "id": 9
+        },
+        {
+            "area": 3544.902232517675,
+            "iscrowd": 0,
+            "bbox": [
+                838.3471074380166,
+                429.6205630354957,
+                34.38016528925618,
+                103.10893512851897
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_18",
+            "id": 10
+        },
+        {
+            "area": 5034.180685232206,
+            "iscrowd": 0,
+            "bbox": [
+                679.6694214876034,
+                434.9082007343941,
+                63.471074380165305,
+                79.31456548347614
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_30",
+            "id": 11
+        },
+        {
+            "area": 1768.9551574496513,
+            "iscrowd": 0,
+            "bbox": [
+                655.8677685950413,
+                305.3610771113831,
+                29.090909090909122,
+                60.8078335373317
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-32-26To09-33-10-Guns_x264_frame_32",
+            "id": 12
+        },
+        {
+            "area": 3953.9294131927913,
+            "iscrowd": 0,
+            "bbox": [
+                622.8099173553719,
+                478.531211750306,
+                76.69421487603302,
+                51.55446756425948
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_8",
+            "id": 13
+        },
+        {
+            "area": 6628.337902222412,
+            "iscrowd": 0,
+            "bbox": [
+                665.1239669421487,
+                434.9082007343941,
+                104.46280991735546,
+                63.45165238678095
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_9",
+            "id": 14
+        },
+        {
+            "area": 4649.625216221413,
+            "iscrowd": 0,
+            "bbox": [
+                461.4876033057851,
+                420.3671970624235,
+                92.56198347107443,
+                50.23255813953489
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-27-50To09-29-30-Guns_x264_frame_255",
+            "id": 15
+        },
+        {
+            "area": 5833.007273131897,
+            "iscrowd": 0,
+            "bbox": [
+                793.3884297520661,
+                436.23011015911874,
+                62.14876033057851,
+                93.85556915544674
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_19",
+            "id": 16
+        },
+        {
+            "area": 1433.343111767504,
+            "iscrowd": 0,
+            "bbox": [
+                904.4628099173553,
+                352.28886168910645,
+                54.21487603305786,
+                26.438188494492067
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam1-From09-23-00To10-03-25_Segment_0_x264_frame_13",
+            "id": 17
+        },
+        {
+            "area": 4095.5157449649478,
+            "iscrowd": 0,
+            "bbox": [
+                862.1487603305785,
+                424.33292533659727,
+                43.636363636363626,
+                93.85556915544674
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_26",
+            "id": 18
+        },
+        {
+            "area": 1922.7773450539664,
+            "iscrowd": 0,
+            "bbox": [
+                647.9338842975206,
+                264.38188494492044,
+                26.446280991735534,
+                72.70501835985311
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-32-26To09-33-10-Guns_x264_frame_30",
+            "id": 19
+        },
+        {
+            "area": 1293.5047593999407,
+            "iscrowd": 0,
+            "bbox": [
+                612.2314049586777,
+                252.484700122399,
+                26.446280991735534,
+                48.910648714810264
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-32-26To09-33-10-Guns_x264_frame_18",
+            "id": 20
+        },
+        {
+            "area": 1468.3026998593966,
+            "iscrowd": 0,
+            "bbox": [
+                347.7685950413223,
+                497.0379436964504,
+                52.89256198347107,
+                27.76009791921672
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-30-04To09-30-42-Guns_x264_frame_26",
+            "id": 21
+        },
+        {
+            "area": 873.9897022972566,
+            "iscrowd": 0,
+            "bbox": [
+                948.0991735537191,
+                249.84088127294982,
+                33.05785123966939,
+                26.43818849449204
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam1-From09-23-00To10-03-25_Segment_0_x264_frame_15",
+            "id": 22
+        },
+        {
+            "area": 5663.453270886231,
+            "iscrowd": 0,
+            "bbox": [
+                708.7603305785124,
+                346.3402692778458,
+                71.40495867768595,
+                79.31456548347614
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_21",
+            "id": 23
+        },
+        {
+            "area": 1608.141052226955,
+            "iscrowd": 0,
+            "bbox": [
+                524.9586776859504,
+                258.4332925336597,
+                60.82644628099172,
+                26.438188494492067
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-27-50To09-29-30-Guns_x264_frame_250",
+            "id": 24
+        },
+        {
+            "area": 2281.113122995844,
+            "iscrowd": 0,
+            "bbox": [
+                253.88429752066116,
+                518.188494492044,
+                59.50413223140498,
+                38.33537331701348
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-27-50To09-29-30-Guns_x264_frame_275",
+            "id": 25
+        },
+        {
+            "area": 10771.049091111412,
+            "iscrowd": 0,
+            "bbox": [
+                1007.603305785124,
+                602.7906976744185,
+                104.46280991735546,
+                103.10893512851897
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam1-From09-23-00To10-03-25_Segment_0_x264_frame_8",
+            "id": 26
+        },
+        {
+            "area": 3057.2159786358075,
+            "iscrowd": 0,
+            "bbox": [
+                585.7851239669421,
+                219.43696450428396,
+                70.08264462809916,
+                43.623011015911885
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-27-50To09-29-30-Guns_x264_frame_248",
+            "id": 27
+        },
+        {
+            "area": 1992.6965212377481,
+            "iscrowd": 0,
+            "bbox": [
+                568.595041322314,
+                392.6070991432068,
+                26.446280991735534,
+                75.34883720930236
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-32-26To09-33-10-Guns_x264_frame_39",
+            "id": 28
+        },
+        {
+            "area": 4908.326168101405,
+            "iscrowd": 0,
+            "bbox": [
+                439.0082644628099,
+                515.5446756425948,
+                68.76033057851242,
+                71.38310893512858
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_6",
+            "id": 29
+        },
+        {
+            "area": 3579.8618206095666,
+            "iscrowd": 0,
+            "bbox": [
+                784.1322314049587,
+                486.46266829865357,
+                42.31404958677683,
+                84.60220318237458
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_16",
+            "id": 30
+        },
+        {
+            "area": 912.4452491983377,
+            "iscrowd": 0,
+            "bbox": [
+                1174.2148760330579,
+                37.01346389228886,
+                38.347107438016565,
+                23.794369645042835
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam1-From09-23-00To10-03-25_Segment_1_x264_frame_30",
+            "id": 31
+        },
+        {
+            "area": 4268.565706019815,
+            "iscrowd": 0,
+            "bbox": [
+                806.6115702479339,
+                499.68176254589963,
+                43.63636363636374,
+                97.82129742962053
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_14",
+            "id": 32
+        },
+        {
+            "area": 1837.5028448381493,
+            "iscrowd": 0,
+            "bbox": [
+                511.9246861924686,
+                737.7405857740586,
+                54.89539748953973,
+                33.47280334728032
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-27-50To09-29-30-Guns_x264_frame_258",
+            "id": 33
+        },
+        {
+            "area": 5090.116026179233,
+            "iscrowd": 0,
+            "bbox": [
+                223.4710743801653,
+                625.2631578947368,
+                74.04958677685948,
+                68.73929008567939
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_4",
+            "id": 34
+        },
+        {
+            "area": 8423.512750740969,
+            "iscrowd": 0,
+            "bbox": [
+                581.8181818181819,
+                794.4675642594859,
+                80.6611570247934,
+                104.43084455324356
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-27-50To09-29-30-Guns_x264_frame_259",
+            "id": 35
+        },
+        {
+            "area": 614.9281986336367,
+            "iscrowd": 0,
+            "bbox": [
+                784.4558515847579,
+                322.0057091346154,
+                24.797787571225058,
+                24.797704104344746
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam7-From09-05-50To10-09-24_Segment_8_x264_frame_451",
+            "id": 36
+        },
+        {
+            "area": 2447.171166432321,
+            "iscrowd": 0,
+            "bbox": [
+                425.78512396694214,
+                371.4565483476132,
+                26.446280991735534,
+                92.53365973072215
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_66",
+            "id": 37
+        },
+        {
+            "area": 2027.6561093296368,
+            "iscrowd": 0,
+            "bbox": [
+                426.44628099173553,
+                375.42227662178703,
+                26.446280991735534,
+                76.6707466340269
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_67",
+            "id": 38
+        },
+        {
+            "area": 1468.3026998593916,
+            "iscrowd": 0,
+            "bbox": [
+                411.23966942148763,
+                345.0183598531212,
+                37.024793388429714,
+                39.65728274173807
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_59",
+            "id": 39
+        },
+        {
+            "area": 2532.822157257454,
+            "iscrowd": 0,
+            "bbox": [
+                419.1735537190083,
+                376.74418604651163,
+                27.768595041322328,
+                91.21175030599755
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_74",
+            "id": 40
+        },
+        {
+            "area": 896.3428511405608,
+            "iscrowd": 0,
+            "bbox": [
+                823.8912133891213,
+                310.6276150627615,
+                33.47280334728032,
+                26.778242677824267
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam7-From09-05-50To10-09-24_Segment_11_x264_frame_28",
+            "id": 41
+        },
+        {
+            "area": 2233.917679071792,
+            "iscrowd": 0,
+            "bbox": [
+                395.3719008264463,
+                379.3880048959608,
+                23.801652892562004,
+                93.85556915544674
+            ],
+            "category_id": 2,
+            "ignore": 0,
+            "segmentation": [],
+            "image_id": "Cam5-From09-24-18To09-26-43-Guns_x264_Segment_0_x264_frame_77",
+            "id": 42
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+<annotation verified="yes">
+                                    <folder>Annotation</folder>
+                                    <filename>Cam5-From09-24-18To09-26-43-Guns_x264_Segment_1_x264_frame_50</filename>
+                                    <path>C:\Users\marina\Documents\DeepLearning\Images\Etiquetados editados\Cam5-From09-24-18To09-26-43-Guns_x264_Segment_1_x264_output\JPEGImages\Cam5-From09-24-18To09-26-43-Guns_x264_Segment_1_x264_frame_50.jpg</path>
+                                    <source>
+                                        <database>Unknown</database>
+                                    </source>
+                                    <size>
+                                        <width>1920</width>
+                                        <height>1080</height>
+                                        <depth>3</depth>
+                                    </size>
+                                    <segmented>0</segmented>
+                                    <object>
+                                            <name>Knife</name>
+                                            <pose>Unspecified</pose>
+                                            <truncated>0</truncated>
+                                            <difficult>0</difficult>
+                                            <bndbox>
+                                                <xmin>477.35537190082647</xmin>
+                                                <ymin>360.8812729498164</ymin>
+                                                <xmax>506.44628099173553</xmax>
+                                                <ymax>460.02447980416156</ymax>
+                                            </bndbox>
+                                    </object>
+                                    
+                                    </annotation>
